@@ -1,0 +1,25 @@
+{
+  "name": "middleman-async-image",
+  "version": "1.0.0",
+  "description": "Middleman async image NPM module for assets if using external pipeline (Webpack)",
+  "main": "async-image.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bastienrobert/npm-async-image.git"
+  },
+  "keywords": [
+    "async",
+    "image",
+    "middleman",
+    "webpack"
+  ],
+  "author": "Bastien Robert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bastienrobert/npm-async-image/issues"
+  },
+  "homepage": "https://github.com/bastienrobert/npm-async-image#readme"
+}
