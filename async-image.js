@@ -27,4 +27,4 @@ class AsyncImage {
   }
 }
 
-export default new asyncImage
+export default new AsyncImage

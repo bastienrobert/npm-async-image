@@ -1,6 +1,6 @@
 {
   "name": "middleman-async-image",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Middleman async image NPM module for assets if using external pipeline (Webpack)",
   "main": "async-image.js",
   "scripts": {
